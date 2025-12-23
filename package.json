@@ -1,5 +1,5 @@
 {
-  "name": "Sujan",
+  "name": "memegenerator",
   "description": "A Vite project with React Meme generator powered by Sujan Dev Tools.",
   "scripts": {
     "start": "vite",
