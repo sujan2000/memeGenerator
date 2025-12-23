@@ -7,6 +7,9 @@ npm start
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 
+1. Install the testing framework: `vitest`.
+```
+npm install -D vitest
 
 
 ##This is a random meme generator app with modifide caption
